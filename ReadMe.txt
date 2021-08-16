@@ -1,1 +1,1 @@
-Template for a website project.
+Frontend exercise to sharpen skills.
