@@ -1,1 +1,1 @@
-Frontend exercise to sharpen skills.
+Frontend exercise to refresh skills.
